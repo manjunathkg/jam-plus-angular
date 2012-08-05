@@ -18,8 +18,7 @@ define(
   ,[
     'app'
     ,'controllers/todoCtrl'
-    ,'directives/todoBlur'
-    ,'directives/todoFocus'
+    ,'directives/directive-aggregator'
     ,'services/todoStorage'
   ]
   ,function mainModule(todomvc) {
