@@ -1,0 +1,1 @@
+[Angular](http://angularjs.org/) [TodoMVC](https://github.com/addyosmani/todomvc/tree/master/architecture-examples/angularjs) app adapted to use AMD and [Jam](http://jamjs.org) for blog post [here](http://btilford.blogspot.com/2012/08/modularizing-angular-app-with-amd.html)
